@@ -32,8 +32,13 @@ rm -rf /tmp/hiddify/*
 branch="${1:-release}"
 
 if [[ "$branch" == v* ]]; then
-    # If input starts with 'v', treat it as a tag
-    base_url="https://raw.githubusercontent.com/zzxym/Hiddify-Manager/refs/tags/$branch/"
+    # If input starts with 'v', first try as branch, then as tag
+    base_url="https://raw.githubusercontent.com/zzxym/Hiddify-Manager/refs/heads/$branch/"
+    # Check if the branch exists by trying to download a small file
+    if ! curl -sL -o /dev/null $base_url/common/utils.sh; then
+        # If branch doesn't exist, try as tag
+        base_url="https://raw.githubusercontent.com/zzxym/Hiddify-Manager/refs/tags/$branch/"
+    fi
 elif [[ "$branch" == "beta" ]]; then
     # If input is 'release' or empty, use main
     base_url="https://raw.githubusercontent.com/zzxym/Hiddify-Manager/refs/heads/beta/"
