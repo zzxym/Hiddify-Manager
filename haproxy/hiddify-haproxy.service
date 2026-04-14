@@ -1,0 +1,14 @@
+[Unit]
+Description=Hiddify HAProxy service
+After=network-online.target
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=3
+ExecStart=/usr/sbin/haproxy -f /opt/hiddify-manager/haproxy/haproxy.cfg
+ExecReload=/usr/sbin/haproxy -f /opt/hiddify-manager/haproxy/haproxy.cfg -sf $MAINPID
+User=root
+
+[Install]
+WantedBy=multi-user.target

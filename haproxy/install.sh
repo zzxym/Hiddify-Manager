@@ -20,7 +20,7 @@ if ! is_installed_package "haproxy=${HAPROXY_VERSION}"; then
         add-apt-repository -y ppa:vbernat/haproxy-${HAPROXY_VERSION}
     fi
     echo "Installing haproxy ${HAPROXY_VERSION}"
-    install_package "haproxy=${HAPROXY_VERSION}.*"
+    apt install -y --no-install-recommends --allow-downgrades "haproxy=${HAPROXY_VERSION}.*"
 else
     echo "haproxy ${HAPROXY_VERSION} is already installed"
 fi
