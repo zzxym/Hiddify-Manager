@@ -2736,7 +2736,7 @@
 
 * Update README.md. [lymanjre]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Force python3.10 to be installed. [hiddify]
 
@@ -2964,7 +2964,7 @@
 
 * Refactor update to three channel: dev/beta/release. [hiddify]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README_fa.md. [Hiddify]
 
@@ -3852,7 +3852,7 @@
 
 * Add ssh liberty service. [hiddify]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Merge pull request #3161 from randomguy-on-internet/patch-1. [Hiddify]
 
@@ -3936,11 +3936,11 @@
 
 * Remove: daily actions. [hiddify]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [lymanjre]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [lymanjre]
 
@@ -4201,7 +4201,7 @@
 
 * Add timeout. [hiddify]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README_cn.md. [lymanjre]
 
@@ -4225,7 +4225,7 @@
 
 * Update README.md. [TheTraxex]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [TheTraxex]
 
@@ -4235,7 +4235,7 @@
 
 * Update README.md. [TheTraxex]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [lymanjre]
 
@@ -4245,13 +4245,13 @@
 
 * Remove geosite. [hiddify]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Delete tutorials.webp. [lymanjre]
 
 * Force our sing-box. [hiddify]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [lymanjre]
 
@@ -4277,7 +4277,7 @@
 
 * Fix reality grpc. [hiddify]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Merge pull request #1070 from WorldEndSukaSuka/main. [Hiddify]
 
@@ -4303,7 +4303,7 @@
 
 * Update README_cn.md. [末日时在做什么？有没有空？可以来拯救吗？]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [Hiddify]
 
@@ -4313,25 +4313,25 @@
 
 * Fix. [hiddify]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [lymanjre]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
-
-* Update README.md. [lymanjre]
-
-* Update README_fa.md. [lymanjre]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [lymanjre]
 
 * Update README_fa.md. [lymanjre]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Update README.md. [lymanjre]
+
+* Update README_fa.md. [lymanjre]
+
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [lymanjre]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [TheTraxex]
 
@@ -4352,7 +4352,7 @@
 
 * Add: logo. [hiddify]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README_fa.md. [lymanjre]
 
@@ -4508,7 +4508,7 @@
 
 ### Other
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README_fa.md. [lymanjre]
 
@@ -4534,7 +4534,7 @@
 
 * Update install.sh. [randomguy-on-internet]
 
-  [Issue#837](https://github.com/hiddify/hiddify-config/issues/837)
+  [Issue#837](https://github.com/zzxym/Hiddify-Manager/issues/837)
 
 * Update README_fa.md. [lymanjre]
 
@@ -4586,7 +4586,7 @@
 
 ### Other
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README_fa.md. [lymanjre]
 
@@ -4596,7 +4596,7 @@
 
 * Fix bug. [hiddify]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [lymanjre]
 
@@ -4620,7 +4620,7 @@
 
 * Update README.md. [lymanjre]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [lymanjre]
 
@@ -4661,7 +4661,7 @@
 
 ### Other
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Delete 13.png. [TheTraxex]
 
@@ -4754,7 +4754,7 @@
 
 ### Other
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update FUNDING.yml. [Hiddify]
 
@@ -4777,7 +4777,7 @@
 
 ### Other
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [Hiddify]
 
@@ -4810,7 +4810,7 @@
 
 ### Other
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [lymanjre]
 
@@ -4859,11 +4859,11 @@
 
 ### Other
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [Hiddify]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README_fa.md. [Hiddify]
 
@@ -4873,13 +4873,13 @@
 
 * Update README.md. [Hiddify]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [lymanjre]
 
 * Fix restart panel after update. [hiddify]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README_fa.md. [lymanjre]
 
@@ -4919,7 +4919,7 @@
 
 * Update README_fa.md. [lymanjre]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README_fa.md. [lymanjre]
 
@@ -4965,7 +4965,7 @@
 
 * Update README_fa.md. [lymanjre]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [lymanjre]
 
@@ -4977,7 +4977,7 @@
 
 * Update. [hiddify]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [lymanjre]
 
@@ -4997,7 +4997,7 @@
 
 * Disable wrap. [hiddify]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [lymanjre]
 
@@ -5018,7 +5018,7 @@
 
 ### Other
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README_fa.md. [lumanjre]
 
@@ -5039,7 +5039,7 @@
 
 ### Other
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [Hiddify Official]
 
@@ -5063,7 +5063,7 @@
 
 ### Other
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [lumanjre]
 
@@ -5100,7 +5100,7 @@
 
 ### Other
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [lumanjre]
 
@@ -5120,7 +5120,7 @@
 
 ### Other
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README_fa.md. [lumanjre]
 
@@ -5156,7 +5156,7 @@
 
 ### Other
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README_fa.md. [Hiddify]
 
@@ -5195,7 +5195,7 @@
 
 ### Other
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README_fa.md. [Hiddify]
 
@@ -5229,7 +5229,7 @@
 
 ### Other
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README_fa.md. [lumanjre]
 
@@ -5247,7 +5247,7 @@
 
 ### Other
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [Hiddify]
 
@@ -5284,7 +5284,7 @@
 
 ### Other
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [Hiddify]
 
@@ -5388,7 +5388,7 @@
 
 ### Other
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [lumanjre]
 
@@ -5645,7 +5645,7 @@
 
 ### Other
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [lumanjre]
 
@@ -5753,7 +5753,7 @@
 
 ### Other
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Fix bug in sites with ir in their names. [Hiddify]
 
@@ -5844,13 +5844,13 @@
 
 * Do not continue if there is an error in installation. [hiddify]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [Hiddify]
 
 * Just for update panel. [hiddify]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Add files via upload. [TheTraxex]
 
@@ -5858,7 +5858,7 @@
 
 * Update panel. [hiddify]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Delete styles.css. [TheTraxex]
 
@@ -5886,7 +5886,7 @@
 
 * Fix cron not installed. [hiddify]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update _Sidebar.md. [TheTraxex]
 
@@ -5902,7 +5902,7 @@
 
 * Fix nginx problem if upstream not found. [hiddify]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update issue templates. [Hiddify]
 
@@ -6142,7 +6142,7 @@
 
 * Fix , [hiddify]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update FUNDING.yml. [Hiddify]
 
@@ -6186,7 +6186,7 @@
 
 * Create FUNDING.md. [Hiddify]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Fix vless in desktop. [Hiddify]
 
@@ -6488,7 +6488,7 @@
 
 * Fix links. [hiddify]
 
-* Merge branch 'main' of github.com:hiddify/hiddify-config. [hiddify]
+* Merge branch 'main' of github.com:zzxym/Hiddify-Manager. [hiddify]
 
 * Update README.md. [Hiddify]
 
@@ -6580,7 +6580,7 @@
 
 * Adding update from ui, and view log. [Hiddify]
 
-* Merge branch 'main' of https://github.com/hiddify/hiddify-config into main. [Hiddify]
+* Merge branch 'main' of https://github.com/zzxym/Hiddify-Manager into main. [Hiddify]
 
 * Update README.md. [Hiddify]
 
@@ -7118,7 +7118,7 @@
 
   V2
 
-* Merge branch 'v2' of https://github.com/hiddify/hiddify-config into v2. [Hiddify]
+* Merge branch 'v2' of https://github.com/zzxym/Hiddify-Manager into v2. [Hiddify]
 
 * Update README.md. [Hiddify]
 
