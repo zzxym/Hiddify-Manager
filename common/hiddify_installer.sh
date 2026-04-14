@@ -194,11 +194,11 @@ function update_config() {
             echo "installing in docker mode finishs"
         ;;
         v*)
-            update_progress "Updating..." "Hiddify Config from $current_config_version to $latest" 60
+            update_progress "Updating..." "Hiddify Config from $current_config_version to $package_mode" 60
             export HIDDIFY_DISABLE_UPDATE=true
-            #update_from_github "hiddify-manager.tar.gz" "https://github.com/zzxym/Hiddify-Manager/archive/refs/tags/${package_mode}.tar.gz" $latest
-            update_from_github "hiddify-manager.zip" "https://github.com/zzxym/Hiddify-Manager/releases/download/${package_mode}/hiddify-manager.zip" $latest
-            update_progress "Updated..." "Hiddify Config to $latest" 100
+            # Use branch instead of release since we don't have a release for v11.1.1
+            update_from_github "hiddify-manager.tar.gz" "https://github.com/zzxym/Hiddify-Manager/archive/refs/heads/${package_mode}.tar.gz" "$package_mode"
+            update_progress "Updated..." "Hiddify Config to $package_mode" 100
             return 0
         ;;
         develop|dev)
